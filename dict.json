@@ -1,0 +1,11 @@
+{
+    "name": "Eteri",
+    "age": 24,
+    "city": "Tbilisi",
+    "is_student": false,
+    "skills": [
+        "Python",
+        "JavaScript",
+        "SQL"
+    ]
+}
